@@ -40,6 +40,8 @@ FinancialMachineLearning_EQ_Feature
 --------------------------------------------------
 Inspired by "Advances in Financial Learning" - De Prado. Collects some stock prices from Yahoo Finance, implements data labelling, triple barrier method, features engineering, an XGBOOST model, and some basic back test. Should represent reasonably well how is the data prepared for ML methods in Trading application as of 2026
 
+v2 file: multiple improvements and bug fixes
+
 ==================================================
 Other - General applications
 ==================================================
